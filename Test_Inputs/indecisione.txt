@@ -1,0 +1,6 @@
+aggiungi-stazione 20 3 5 10 100
+aggiungi-stazione 50 3 1 2 100
+aggiungi-stazione 70 1 50
+aggiungi-stazione 10 2 5 45
+aggiungi-stazione 80 1 10
+pianifica-percorso 80 10
